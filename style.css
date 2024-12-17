@@ -16,11 +16,11 @@ body {
 .navbar-brand {
   font-weight: 600;
   font-size: 1.8rem;
-  color: #fff;
+  color: black;
 }
 
 .navbar-nav .nav-link {
-  color: #fff;
+  color: greenyellow;
   font-weight: 500;
   padding: 8px 15px;
   font-size: 1.1rem;
